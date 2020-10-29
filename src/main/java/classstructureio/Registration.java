@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Registration {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in)
+        Scanner scanner = new Scanner(System.in);
         System.out.println("adja meg a nevét:");
         String name = scanner.nextLine();
 
