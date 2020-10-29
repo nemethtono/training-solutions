@@ -12,8 +12,7 @@ public class Calculator {
         System.out.println("második szám");
         int second = scanner.nextInt();
 
-        System.out.println(first "+" second);
+        System.out.println(first+" + "+second);
         System.out.println(first+second);
     }
-    }
-}
+  }
